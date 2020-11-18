@@ -1,5 +1,6 @@
 h2{
     color:red;
+    font-family: Lobster;
 }
 
 .blue-text{
@@ -9,8 +10,4 @@ h2{
 p{
     font-size: 16px;
     font-family: monospace;
-}
-
-h2{
-    font-family: Lobster;
 }
