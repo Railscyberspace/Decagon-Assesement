@@ -14,4 +14,11 @@
 
 .smaller.image{
     width:100px;
+    border-width:10px;
+    border-style:solid;
+}
+
+thick-green-border{
+    border-color:green;
+
 }
